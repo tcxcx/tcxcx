@@ -4,6 +4,15 @@
   <tr>
     <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlqejE2ZW5hNWY2b2hkenU4Yzc3MW91ODZyMGt2c3RoNWg5cXhiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYHz66JfYHbBtZXjHy/giphy.gif" width="100"/></td>
     <td><img src="https://i.giphy.com/media/8vFcxFISPW1payx0aB/giphy.webp" width="100"/></td>
+
+    <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwYnJvZ3ZzcG0wcWMybDhtb2twcWxramt5M2ZxMnIwaWt4bGJmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3yndSDqQ71lLccvB2j/giphy.gif" width="100"/></td>
+    <td><img src="https://giphy.com/gifs/nba-basketball-dallas-mavericks-3o7aTAbIidqdqSZu4o?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/" width="100"/></td>
+    <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlleHB1bHJuNGdqcWhxcjU0aG9vbjlkeWNuN2QxdGdvYnQ2bW1mZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ucKexzMhorA7L0JWEA/giphy.gif" width="100"/></td>
+      <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I2YXFwY2Fzd2k5OWtiNXcxdjI3bTB0dG8wOGZ1azkxMWl3dmZmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXu72d4iKwqek/giphy.gif" width="100"/></td>
+      <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZsajA3M3p1c3I4ZTM2b2R3N2x1NXo0Z2Z4eG9ieXliODh3cGdhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14ocCma2bidOCI/giphy.gif" width="100"/></td>
+       <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnB6ZGM4bm83ZWVqaHUybXZ3bHRkbzZzM2x5bmJ6ODcxdW02MWczMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWQ3lmJXI9QylAgrWp/giphy.gif" width="100"/></td>
+      <td><img src="https://giphy.com/gifs/food-yummy-yum-3pZ7J7lKBvyWoWWKmL" width="100"/></td>
+
   </tr>
 </table>
 
