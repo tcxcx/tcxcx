@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Tomás!
 
-<div align="center">
-
-![Header](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="75"/></td>
+    <td><img src="https://i.giphy.com/media/8vFcxFISPW1payx0aB/giphy.webp" width="75"/></td>
+  </tr>
+</table>
 
 ## 🚀 About Me
 I'm a Software Developer passionate about creative web development, blockchain, and AI. Always eager to learn and looking to collaborate on intriguing projects!
@@ -23,10 +24,5 @@ I'm a Software Developer passionate about creative web development, blockchain, 
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=green)
 ![GSAP](https://img.shields.io/badge/Library-GSAP-informational?style=flat&logo=greensock&logoColor=white&color=yellowgreen)
 ![Framer Motion](https://img.shields.io/badge/Library-Framer_Motion-informational?style=flat&logo=framer&logoColor=white&color=yellowgreen)
-
-
-## 📊 GitHub Stats
-
-[![Tomás's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
 </div>
