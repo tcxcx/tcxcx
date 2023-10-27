@@ -8,7 +8,7 @@
 </table>
 
 ## 🚀 About Me
-I'm a Software Developer passionate about creative web development, blockchain, and AI. Always eager to learn and looking to collaborate on intriguing projects!
+I'm a Software Developer passionate about creative web development, blockchain, and AI. Always eager to learn and looking to collaborate on intriguing projects or the next world-class hackathon!
 
 ### 🛠️ Technologies & Tools
 
