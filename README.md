@@ -2,8 +2,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="75"/></td>
-    <td><img src="https://i.giphy.com/media/8vFcxFISPW1payx0aB/giphy.webp" width="75"/></td>
+    <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlqejE2ZW5hNWY2b2hkenU4Yzc3MW91ODZyMGt2c3RoNWg5cXhiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYHz66JfYHbBtZXjHy/giphy.gif" width="100"/></td>
+    <td><img src="https://i.giphy.com/media/8vFcxFISPW1payx0aB/giphy.webp" width="100"/></td>
   </tr>
 </table>
 
