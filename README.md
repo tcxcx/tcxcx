@@ -1,13 +1,9 @@
 # Hi there 👋, I'm Tomás!
 
 <table align="center">
-
-
-
-
   <tr>
      <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlqejE2ZW5hNWY2b2hkenU4Yzc3MW91ODZyMGt2c3RoNWg5cXhiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYHz66JfYHbBtZXjHy/giphy.gif" width="100"/></td>
-    <td><img src="https://assets.vogue.com/photos/58918911e8e3104f57c740f1/master/pass/bourdain-street-food-650-542.gif" width="100"/></td>
+    <td><img src="https://assets.vogue.com/photos/58918911e8e3104f57c740f1/master/pass/bourdain-street-food-650-542.gif" /></td>
      <td><img src="https://media4.giphy.com/media/QWQ3lmJXI9QylAgrWp/giphy.gif?cid=ecf05e47ahu5cbuiuek8qdoj2lsr4usdd050zy89qg7g8e77&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/></td>
      <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdlYzI2aTRhbDlpdWgxNmM3NjN3Z3dyaDd6cWtwemh4aTVnMzcwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eFvs5iE6a6ntVIRaEN/giphy.gif" width="100"/></td>
 
